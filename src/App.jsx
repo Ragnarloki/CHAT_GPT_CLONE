@@ -22,7 +22,7 @@ const App = () => {
         {
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer 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',
+            'Authorization': 'Bearer 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',
           },
         }
       );
